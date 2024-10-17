@@ -1,0 +1,1 @@
+node is a open server envorinment.node js allow run js on server start learnung node js now
